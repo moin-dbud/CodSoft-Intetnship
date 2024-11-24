@@ -4,13 +4,13 @@
 A simple chatbot that provides responses based on predefined rules.
 
 ## Features
-- Key features of the project.
+- ✔️ Developed a chatbot tailored for customer support services.
+  ✔️ Handles user queries about products, technical support, return policies, and general assistance.
+  ✔️ Includes predefined rules for accurate responses and smooth conversation flow.
+  ✔️ Features exit commands for a seamless user experience and a fallback mechanism for unrecognized inputs.
 
 ## Files
-- `project_code.py`: Main script for the project.
-- Any additional files/data.
+- 'chatbot.py'
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CodSoft-AI-Internship.git
+Open New Terminal and type "python chatbot.py" and hit enter. 
