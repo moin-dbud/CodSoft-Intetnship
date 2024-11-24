@@ -7,10 +7,7 @@ This repository contains all the tasks and projects completed during my AI inter
    A simple chatbot that provides responses based on predefined rules.
 
 2. **Task 2: Face Detection and Recognition**  
-   🔍 Key Features:
-
-Detects faces with bounding boxes and confidence scores.
-Built using Python, OpenCV, and deep learning frameworks.
+   A Face Detection and Recognition system built using Python, OpenCV, and deep learning frameworks.
 
 ## Repository Structure
 
