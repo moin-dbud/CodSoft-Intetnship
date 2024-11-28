@@ -1,4 +1,4 @@
-# Task 2: TIC-TAC-TOE AI
+# Task 3: TIC-TAC-TOE AI
 
 ## Description
 A simple TIC-TAC-TOE AI game.
