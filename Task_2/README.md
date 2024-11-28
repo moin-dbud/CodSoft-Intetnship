@@ -15,8 +15,9 @@ A simple Face Detection and Recogniton System.
 - OpenCV for video/image processing and visualization.
 
 ## Files
-- 'face-detection.py'
+- 'detect-faces.py'
+- 'detect-faces-video'
 
 ## How to Run
-Open New Terminal and type "python face-detection.py" and hit enter. 
+Open New Terminal and type "python detect-faces.py" and hit enter. 
 
