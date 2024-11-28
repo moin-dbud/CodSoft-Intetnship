@@ -9,5 +9,5 @@ This repository contains all the tasks and projects completed during my AI inter
 2. **Task 2: Face Detection and Recognition**  
    A Face Detection and Recognition system built using Python, OpenCV, and deep learning frameworks.
 
-3. **Task 3: TIC-TAC-TOE AI**
+3. **Task 3: TIC-TAC-TOE AI** <br>
    A simple TIC-TAC-TOE AI based game.
